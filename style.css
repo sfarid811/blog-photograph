@@ -91,7 +91,7 @@ section .pictures {
     background-image:linear-gradient(
         rgba(15, 4, 4, 0.4),
         rgba(34, 34, 34, 0.4)
-      ), url('./nature.jpg');
+      ), url('img/nature.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -110,7 +110,7 @@ section .pictures {
     background-image: linear-gradient(
         rgba(15, 4, 4, 0.4),
         rgba(34, 34, 34, 0.4)
-      ), url('./nightlife.jpg');
+      ), url('img/nightlife.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -125,7 +125,7 @@ section .pictures {
     background-image: linear-gradient(
         rgba(104, 35, 35, 0.4),
         rgba(34, 34, 34, 0.4)
-      ),url('./food.jpg');
+      ),url('img/food.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
